@@ -1,4 +1,13 @@
-### Hi there 👋
+#### Hi there 👋
+
+[My PRs to other projects](https://github.com/pulls?q=is:pr+author:r-m-n+archived:false+%20-org:click-contrib%20-org:forkode)
+
+<p align="left">
+<a href="https://stackoverflow.com/users/5341877" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="5341877" height="20" width="20" /></a>
+</p>
+
+
+
 
 <!--
 **r-m-n/r-m-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
